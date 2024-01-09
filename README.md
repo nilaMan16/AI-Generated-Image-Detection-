@@ -1,6 +1,6 @@
 # AI-Generated-Image-Detection-
 
 ## Objective
-With the advent of generative AI, it has become increasingly difficult to separate real data from AI-generated. The goal is to develop a model that can identify a fake photo created by AI.
+As generative AI becomes more prevalent, distinguishing genuine data from artificially generated content has become a significant challenge. The objective is to create a model capable of discerning images that are not authentic and have been produced by AI.
 
 Read the research report for further details.
